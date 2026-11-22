@@ -1,0 +1,16 @@
+PROYECTO: CONTROL DE VERSIONES CON GIT Y GITHUB
+
+ASIGNATURA: Introducción a la Ingeniería de Software
+
+OBJETIVO:
+Comprender y aplicar los conceptos básicos del control de versiones
+mediante el uso de Git y GitHub.
+
+INTEGRANTES:
+1.Luis 
+2.Mathías David Menezes Yagual 
+3.Victor Joel Rosa Espinoza
+
+DESCRIPCIÓN:
+Este proyecto demuestra el uso de Git y GitHub para crear,
+modificar, registrar y compartir archivos de manera colaborativa.
